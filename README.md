@@ -22,5 +22,3 @@ A simple and responsive weather forecasting web application built with **React.j
 
 ---
 
-> *(Add your app screenshots here in the `assets/` folder)*
-
